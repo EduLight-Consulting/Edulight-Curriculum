@@ -1,6 +1,6 @@
 # CSS & HTML DEVELOPER
 ### Get  introduced to two most basic component of the web, with latest standards and build real life mock-up and site done.
-### Duration (1 - 3 months)
+### Duration (1.5 months)
 ## What will i learn ? :book:
 ### Curriculum :
 ## Week 1 - 
