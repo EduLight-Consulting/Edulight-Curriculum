@@ -3,9 +3,11 @@
 
 
 ### Requirement: Previous knowledge of HTML and CSS or any other programming experience will be beneficial.
+
 ### Description:
 ### Target Audience:
-### Curriculum - 3month
+### Curriculum - 3 month
+
 ### Month 1 - Javascript Basics(javascript.info)
 #### Week 1
 ### Chapter one,two,three
@@ -28,3 +30,39 @@
 ### Error handling.
 
 ### Assignment/Freecodecamp Excercises
+
+### Month 2 - Ecmascript standard and writing morden JS web platform
+#### Week 1 
+* prettier / Eslint Linters
+* Babel / CodeMirror / Espree / AST
+* Compilers,transpilers
+* Node and NPM (yam).
+
+#### Week 2
+* Digging Deep,
+* Mone excercises.
+
+#### Week 3
+* The web / Internet,
+* HTML and CSS recap.
+
+#### Week 4
+* Javascript framworks.
+
+### Month 3 
+#### Week 1
+* Document Object Mode.
+
+#### Week 2
+* Events.
+
+#### Week 3
+* forms,
+* controls, Animation,
+* Frames and windows.
+
+#### Week 4
+* Regular expression,
+* Promises;async/await,
+* Network request,
+* AJAX and COMET.
