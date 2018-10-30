@@ -7,23 +7,23 @@
 ### Target Audience:
 ### Curriculum - 3month
 ### Month 1 - Javascript Basics(javascript.info)
-### Week 1
+#### Week 1
 ### Chapter one,two,three
 ### Introduction,
 ### Javascript Fundalmentals,
 ### Code quality.
 
-### Week 2
+#### Week 2
 ### Chapter four & five,
 ### Object:the basics,
 ### Data types.
 
-### Week 3
+#### Week 3
 ### Chapter six and seven,
 ### Advance working with fans,
 ### Object classes inheritance.
 
-### Week 4
+#### Week 4
 ### Chapter eight,
 ### Error handling.
 
