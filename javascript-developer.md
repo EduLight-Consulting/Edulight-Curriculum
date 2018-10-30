@@ -10,26 +10,26 @@
 
 ### Month 1 - Javascript Basics(javascript.info)
 #### Week 1
-### Chapter one,two,three
-### Introduction,
-### Javascript Fundalmentals,
-### Code quality.
+* Chapter one,two,three
+* Introduction,
+* Javascript Fundalmentals,
+* Code quality.
 
 #### Week 2
-### Chapter four & five,
-### Object:the basics,
-### Data types.
+* Chapter four & five,
+* Object:the basics,
+* Data types.
 
 #### Week 3
-### Chapter six and seven,
-### Advance working with fans,
-### Object classes inheritance.
+* Chapter six and seven,
+* Advance working with fans,
+* Object classes inheritance.
 
 #### Week 4
-### Chapter eight,
-### Error handling.
+* Chapter eight,
+* Error handling.
 
-### Assignment/Freecodecamp Excercises
+> Assignment/Freecodecamp Excercises
 
 ### Month 2 - Ecmascript standard and writing morden JS web platform
 #### Week 1 
