@@ -29,3 +29,50 @@
 ### Week 4
 * Git and Github,
 * Command line and shell.
+
+
+#### Month 2 - Spcialization | React or Vue
+### Week 1
+* Introduction 
+* Vue instance | introduction to JSk
+* Computed properties | Rendering element and watchers.
+
+### Week 2
+* Class and style Bindings | Component and props.
+* Conditional rendering | State and life cycle.
+* list Rendering | Handling Event.
+
+### Week 3
+* Event handling | Conditional Rendering.
+* Form InputBinding | List and Keys.
+* Vuex | Forms
+* Vue-Router | Lifting Stateup.
+
+### Week 4
+* Nuxt | Composition and Inheritance.
+* API | Thinking in React.
+* Style Guide | Advance React.
+            | API.
+            | Style Guide.
+
+#### Month 3 - Tooling and Deploying.
+### Week 1
+* Task Runners | (Automation tools).
+* Package maneger. 
+* Bendler and der webserver
+* Webpack | parcel.
+
+### Week 2
+* Testing-Jest,
+* Listing Eslint,
+* Transpiler-Babel,
+* other tools.
+
+### Week 3
+* Netify
+* Surge
+* Now
+* Github Pages
+
+### Week 4
+* projects.
