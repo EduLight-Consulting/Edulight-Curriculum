@@ -1,6 +1,9 @@
 # CSS & HTML DEVELOPER
 ### Get  introduced to two most basic component of the web, with latest standards and build real life mock-up and site done.
 ### Duration (1.5 months)
+### Requirements: Previous knowledge of HTML and CSS or any other programming experience will be beneficial.
+### Description:
+### Target Audience:
 ## What will i learn ? :book:
 ### Curriculum :
 ## Week 1 - 
